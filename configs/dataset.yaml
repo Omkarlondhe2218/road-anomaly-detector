@@ -1,0 +1,11 @@
+# YOLOv8 Dataset Config for Road Anomaly Detection
+path: data/processed  # dataset root dir
+train: images/train   # train images (relative to 'path')
+val: images/val       # val images (relative to 'path')
+
+# Class Names
+names:
+  0: pothole
+  1: crack
+  2: rutting
+  3: debris
