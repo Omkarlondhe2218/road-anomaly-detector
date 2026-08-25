@@ -1,0 +1,19 @@
+{
+  "item_id": "hard_ex_20260825_174957_809",
+  "timestamp": "20260825_174957",
+  "reason": "low_confidence_pothole_prediction",
+  "image_filename": "hard_ex_20260825_174957_809.jpg",
+  "predicted_detections": [],
+  "corrected_annotations": [
+    {
+      "class_id": 0,
+      "bbox_yolo": [
+        0.5,
+        0.5,
+        0.25,
+        0.25
+      ]
+    }
+  ],
+  "status": "ingested"
+}
